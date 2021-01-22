@@ -1,0 +1,9 @@
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\bin\Debug\netstandard2.1\Invoicing.Shared.deps.json
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\bin\Debug\netstandard2.1\Invoicing.Shared.dll
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\bin\Debug\netstandard2.1\Invoicing.Shared.pdb
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.csprojAssemblyReference.cache
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.AssemblyInfoInputs.cache
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.AssemblyInfo.cs
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.csproj.CoreCompileInputs.cache
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.dll
+C:\Users\point\source\repos\Invoicing\Invoicing\Shared\obj\Debug\netstandard2.1\Invoicing.Shared.pdb
